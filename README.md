@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a financial risk analysis tool using Java & Spring Boot.**
 
-- 🌱 I’m currently learning **Typescript,React**
+- 🌱 I’m learning **Typescript,React** at the moment
 
 - ⚡ Fun fact **I like cars (🇩🇪 mostly)**
 
