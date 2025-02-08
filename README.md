@@ -2,6 +2,7 @@
 <h3 align="center">An ambitious Computer Engineering Student from Turkey / Switzerland</h3>
 
 <br>
+
 - 🔭 I’m currently working on **a financial risk analysis tool using Java & Spring Boot.**
 
 - 🌱 I’m currently learning **Typescript,React**
