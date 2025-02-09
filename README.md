@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
-<h3 align="center">An ambitious Computer Engineering Student from Turkey / Switzerland</h3>
+<h3 align="center">An ambitious Software Engineer from Turkey / Switzerland</h3>
 
 <br>
 
