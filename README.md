@@ -3,7 +3,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **a financial risk analysis tool using Java & Spring Boot.**
+- 🔭 I have recently finished working on **a financial risk analysis tool using Java & Spring Boot.**
 
 - 🌱 I’m learning **Javascript & React** at the moment
 
