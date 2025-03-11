@@ -5,7 +5,7 @@
 
 - 🔭 I have recently finished working on **a financial risk analysis tool using Java & Spring Boot.**
 
-- 🌱 I’m learning **Javascript & React** at the moment
+- 🌱 I’m learning **Typescript & Angular** at the moment
 
 - ⚡ Fun fact: **I like cars (🇩🇪 mostly)**
 
